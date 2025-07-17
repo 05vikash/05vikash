@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F6F7&background=FFFFFF00&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Vikash+Kumar+Dubey" alt="Typing SVG" /></a>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
  <div align="center"> 
    
-   ## Hi there 👋 I am Vikash Kumar Dubey
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Vikash Kumar Dubey+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  
+   
 
 
 </p> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />Passionate Developer | MCA @ Manipal University Jaipur | MERN & AI Enthusiast   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" 
