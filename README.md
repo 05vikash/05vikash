@@ -65,13 +65,8 @@
 	    <img width="30" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 	    
 </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-     
- </kbd>
-    <kbd>
+ 
+<kbd>
  <kbd>Front-end</kbd>
       <br>
       <br>
@@ -137,14 +132,14 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupyter"/>
   </kbd>
      <kbd>
-      <kbd>Game Development</kbd>
+      
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
-    </kbd>
+    
+</kbd>
   </p>
 </div>
-### 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/05vikash)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](your-leetcode-url)
