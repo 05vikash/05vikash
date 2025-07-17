@@ -131,12 +131,7 @@
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupyter"/>
   </kbd>
-     <kbd>
-      
-      <br>
-      <br>
-    
-</kbd>
+   
   </p>
 </div>
 ## Connect with Me
