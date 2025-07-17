@@ -1,7 +1,24 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-## Hi there 👋 I am Vikash Kumar Dubey
-<hr>
+ <div align="center"> 
+   
+   ## Hi there 👋 I am Vikash Kumar Dubey
+
+ Passionate Developer | MCA @ Manipal University Jaipur | MERN & AI Enthusiast
+
+   
+ </div>
+ 
+💼 Web Developer specializing in MERN stack and scalable server architectures <br>
+🧠 Exploring Agentic AI, MCP servers, and modern backend solutions <br>
+🎨 UI/UX enthusiast: Figma, Framer Motion, Tailwind CSS, and Bootstrap <br>
+🛠️ Building projects with React, Redux, Context API, GraphQL, Firebase, Appwrite, Redis <br>
+📝 Experienced with NGINX reverse proxy, SQL, WordPress, and more <br>
+☕ Debugging is best with coffee!
+
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 <!--
 **05vikash/05vikash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +34,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](your-leetcode-url)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/05vikash)
