@@ -24,11 +24,11 @@
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   
    ### 🚀 About Me
-💼 Web Developer specializing in MERN stack and scalable server architectures <br>
-🧠 Exploring Agentic AI, MCP servers, and modern backend solutions <br>
-🎨 UI/UX enthusiast: Figma, Framer Motion, Tailwind CSS, and Bootstrap <br>
-🛠️ Building projects with React, Redux, Context API, GraphQL, Firebase, Appwrite, Redis <br>
-📝 Experienced with NGINX reverse proxy, SQL, WordPress, and more <br>
+💼 Web Developer specializing in MERN stack and scalable server architectures <br><br>
+🧠 Exploring Agentic AI, MCP servers, and modern backend solutions <br><br>
+🎨 UI/UX enthusiast: Figma, Framer Motion, Tailwind CSS, and Bootstrap <br><br>
+🛠️ Building projects with React, Redux, Context API, GraphQL, Firebase, Appwrite, Redis <br><br>
+📝 Experienced with NGINX reverse proxy, SQL, WordPress, and more <br><br>
 ☕ Debugging is best with coffee!
  </div>
  
